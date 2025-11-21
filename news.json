@@ -1,0 +1,24 @@
+{
+  "KZ": [
+    {
+      "title": "Новый IT-хаб в Астане",
+      "description": "Astana Hub — крупнейший международный технопарк стартапов в Казахстане, поддерживает талантливых IT-предпринимателей и инновационные проекты.",
+      "image": "https://techlabs.kz/wp-content/uploads/2023/04/Astana-Hub.jpg",
+      "link": "https://astanahub.com/"
+    },
+    {
+      "title": "Развитие 5G в Казахстане",
+      "description": "В Казахстане активно разворачиваются сети 5G: уже установлено более 3 000 базовых станций, планируется покрытие крупных городов.",
+      "image": "https://tele2.kz/uploads/2023/5/10/2e64b82944e2b9556acf798119acab38_original.689110.png",
+      "link": "https://astanatimes.com/2025/04/kazakhstan-installs-over-3000-5g-base-stations/"
+    }
+  ],
+  "DEFAULT": [
+    {
+      "title": "Мировые технологические новости",
+      "description": "Подборка интересных новостей из мира технологий.",
+      "image": "https://kartinki.pibig.info/uploads/posts/2024-02/thumbs/1708714791_kartinki-pibig-info-p-kartinka-chernii-fon-bez-nichego-instagram-59.png%22",
+      "link": "https://habr.com/ru/news/"
+    }
+  ]
+}

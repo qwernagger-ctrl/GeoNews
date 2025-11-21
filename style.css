@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg,#4ab1ff,#f7ffea);
+}
+
+header {
+  padding: 15px;
+  text-align: center;
+  background: #e94141;
+  font-weight: 700;
+  box-shadow: 0 4px 14px rgba(0,0,0,.1);
+}
+
+button {
+  padding: 14px 54px;
+  border: 0;
+  border-radius: 80px;
+  background: linear-gradient(90deg,#002aff,#6fa3ff);
+  color: #ffffff;
+  cursor: pointer;
+  font-weight: 900;
+  transition: .2s;
+}
+
+button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
+}
+
+#status {
+  padding: 34px;
+  text-align: center;
+  font-weight: 900;
+  color: #1d2e44;
+}
+
+.grid {
+  display: grid;
+  gap: 18px;
+  padding: 18px;
+  grid-template-columns: repeat(auto-fit,minmax(240px,1fr));
+}
+
+.card {
+  background: #77f7f7;
+  border-radius: 36px;
+  overflow: hidden;
+  box-shadow: 0 8px 0px rgba(0,0,0,.1);
+  transition: .25s;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 16px 40px rgba(0,0,0,.16);
+}
+
+.card img {
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+}
+
+.card h3 {
+  margin: 20px;
+  font-size: 15px;
+}
+
+.card p {
+  margin: 0 10px 12px;
+  font-size: 16px;
+  color: #432b86;
+}
+
+.card a {
+  margin: 0 10px 14px;
+  display: inline-flex;
+  padding: 9px 42px;
+  border-radius: 90px;
+  background: #c1cff0;
+  color: #3845ff;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+footer {
+  padding: 54px;
+  text-align: center;
+  color: #002fff;
+}
